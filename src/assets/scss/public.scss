@@ -309,10 +309,9 @@ li{
     background: transparent;
     box-shadow: none;
   }
-  .el-carousel__item{
-    height: auto;
-    border: 10px solid #fff;
-    border-radius: 5px;
+  .el-carousel{
+      border: 10px solid #fff;
+      border-radius: 5px;
   }
   .banner-box{
   }
