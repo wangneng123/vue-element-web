@@ -313,6 +313,11 @@ li{
       border: 10px solid #fff;
       border-radius: 5px;
   }
+  .el-carousel__item{
+    img{
+      min-height: 300px;
+    }
+  }
   .banner-box{
   }
 }
