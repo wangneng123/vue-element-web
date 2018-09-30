@@ -38,7 +38,7 @@
       </el-alert>
   </div>
 </template>
-
+<!--先克隆下来-->
 <script>
   function isvalidPhone(str) {
     const reg = /^1[3|4|5|7|8][0-9]\d{8}$/
@@ -103,6 +103,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
+    <!---->
  .hello{
    background-image: url("../assets/logo.png");
  }
