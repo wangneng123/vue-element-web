@@ -52,7 +52,7 @@ export default {
         }
       })
     }
-    console.log(this.navs)
+    console.log(this.navs,1)
   },
   methods:{
     clickNav (index) {
